@@ -79,4 +79,4 @@ filename:.ftpconfig
 filename:.remote-sync.json
 filename:sftp.json path:.vscode
 filename:WebServers.xml
-
+filename:api_key extension:txt
